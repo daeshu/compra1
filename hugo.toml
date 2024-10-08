@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Compra y Ahorra 22'
+theme = "newsroom"
